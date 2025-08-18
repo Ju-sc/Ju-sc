@@ -37,7 +37,7 @@
 ## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ju-scp-sc" target="_blank">
+  <a href="www.linkedin.com/in/julianalsleite" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
