@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou a Juliana! 👋</h1>
 <p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia e por resolver problemas através do código. 
+  Sou uma estudante apaixonada por tecnologia. 
   <br/>
-  Atualmente estou focando meus estudos em <strong>Python e Django</strong> para desenvolvimento web backend.
+  Atualmente estou focando meus estudos em <strong>Python e C</strong> para desenvolvimento backend.
   <br/>
-  Estou sempre aberto a aprender novas ferramentas e colaborar em projetos desafiadores!
+  Estou sempre aberta a aprender novas ferramentas e colaborar em projetos desafiadores!
 </p>
 
 ---
