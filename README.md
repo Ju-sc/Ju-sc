@@ -22,8 +22,8 @@ Estou sempre aberta a aprender novas ferramentas e colaborar em projetos desafia
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ju-sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-sc&layout=compact&langs_count=10&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ju-sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-sc&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800)
 
 ---
 
