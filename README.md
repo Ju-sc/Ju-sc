@@ -1,43 +1,32 @@
-<h1 align="center">Olá, eu sou a Juliana! 👋</h1>
-<p align="center">
-  Sou uma estudante apaixonada por tecnologia. 
-  <br/>
-  Atualmente estou focando meus estudos em <strong>Python e C</strong> para desenvolvimento backend.
-  <br/>
-  Estou sempre aberta a aprender novas ferramentas e colaborar em projetos desafiadores!
-</p>
+# Olá, eu sou a Juliana! 👋
+
+Sou uma estudante apaixonada por tecnologia.
+
+Atualmente estou focando meus estudos em **Python e C** para desenvolvimento backend.
+
+Estou sempre aberta a aprender novas ferramentas e colaborar em projetos desafiadores!
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</p>
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-sc&layout=compact&langs_count=10&theme=dracula"/>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ju-sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-sc&layout=compact&langs_count=10&theme=dracula)
 
 ---
 
 ## 📫 Onde me encontrar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julianalsleite" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianalsleite)
