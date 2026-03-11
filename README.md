@@ -2,7 +2,7 @@
 
 Sou uma estudante apaixonada por tecnologia.
 
-Atualmente estou focando meus estudos em **Python e C** para desenvolvimento backend.
+Atualmente estou focando meus estudos em **Python e PHP** para desenvolvimento backend.
 
 Estou sempre aberta a aprender novas ferramentas e colaborar em projetos desafiadores!
 
